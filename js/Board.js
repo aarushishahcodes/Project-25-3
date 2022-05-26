@@ -2,8 +2,8 @@ class Board {
   constructor(x, y, width, height) {
     
      var options = {
-      isStatic: false
-    //isStatic: true
+      // isStatic: false
+      isStatic: true
     //   Static: true
     //   isStatic= true
      };
